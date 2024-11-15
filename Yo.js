@@ -1,2 +1,4 @@
-var yo = "Welcome to Spito velly";
-console.log(yo);
+var yq = "Welcome to Spito velly";
+var yop = "Welcome to Nubra Velly";
+console.log(yq);
+console.log(yop);
